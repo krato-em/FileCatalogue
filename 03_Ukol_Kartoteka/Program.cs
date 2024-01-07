@@ -369,7 +369,7 @@ public class Logic
             else if (appendPeople == "no")
             {
                 Console.WriteLine("\nAdded people were discarded.");
-                Console.WriteLine("Byla jsem moc lina dopsat kod, co by vytvoril novy soubor. Za to pujdu do pekla! :) ");
+                Console.WriteLine("The functionality of adding a new file will be added soon... possibly :) ");
             }
         }
 
